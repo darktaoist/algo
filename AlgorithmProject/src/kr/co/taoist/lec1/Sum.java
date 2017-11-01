@@ -9,7 +9,7 @@ public class Sum {
 		int a , b;
 		a = sc.nextInt();
 		b = sc.nextInt();
-		System.out.println("a+b = " + (a+b));
+		System.out.println("a+    b = " + (a+b));
 	}
 	
 }
