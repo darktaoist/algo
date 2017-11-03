@@ -25,6 +25,5 @@ public class WriteStar {
 				System.out.print("*");
 			}
 			System.out.println("");
-		}
-	}
+		}   	}
 }
