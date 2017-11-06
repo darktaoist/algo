@@ -1,4 +1,4 @@
-package kr.co.taoist.lec3;
+package kr.co.taoist.lec3_1;
 
 import java.util.Scanner;
 
