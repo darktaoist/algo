@@ -2,6 +2,16 @@ package kr.co.taoist.lec3_1;
 
 import java.util.Scanner;
 
+
+/*
+ * 
+ * 예제 입력 3  복사
+10
+1 1 2 3 5 8 13 21 34 55
+예제 출력 3  복사
+55
+ */
+
 public class FishBread {
 
 	public static void main(String args[]) {
@@ -21,4 +31,6 @@ public class FishBread {
         }
         System.out.println(d[n]);
     }
+	
+	
 }
