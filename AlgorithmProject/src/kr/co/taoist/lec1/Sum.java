@@ -1,6 +1,9 @@
 package kr.co.taoist.lec1;
 
 import java.util.Scanner;
+/*
+ * 완료
+ */
 
 public class Sum {
 
